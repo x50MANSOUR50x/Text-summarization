@@ -41,3 +41,8 @@ streamlit run app.py
 🛠 Models
 - Local model: Trained and saved in t5-small-cnn-tiny/.
 - Fallback: sshleifer/distilbart-cnn-12-6 from Hugging Face Hub.
+
+🤝 Credits
+Developed by Mohammed Ahmed Mansour
+
+Under guidance from Elevvo Internship Program
