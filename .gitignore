@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.bin
+*.safetensors
+*.h5
+*.ckpt
+t5-small-cnn-tiny/
+
+# Streamlit cache
+.streamlit/
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
