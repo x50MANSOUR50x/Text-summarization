@@ -43,6 +43,7 @@ streamlit run app.py
 - Fallback: sshleifer/distilbart-cnn-12-6 from Hugging Face Hub.
 
 🤝 Credits
+
 Developed by Mohammed Ahmed Mansour
 
 Under guidance from Elevvo Internship Program
